@@ -1,0 +1,33 @@
+/* Selector por etiqueta */
+div p {
+    color:red;
+}
+
+/* h1 {
+    color:green;
+}
+
+h2 {
+    color:teal;
+} */
+
+
+/* p {
+    color:royalblue;
+} */
+
+/* Selector por clase */
+
+.titulos {
+    color:slateblue;
+}
+
+.text {
+    color:goldenrod;
+}
+
+/* Selector por ID */
+
+#texto-2 {
+    color:slategrey;
+}
